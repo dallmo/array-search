@@ -1,5 +1,6 @@
 {
   "name": "@dallmo/array-search",
+  "description": "a simple function to search for strings in an array",
   "version": "1.0.0",
   "tasks": {
     "run": "deno run -A app.ts",
