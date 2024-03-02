@@ -1,4 +1,5 @@
 {
+  "name": "@dallmo/array-search",
   "tasks": {
     "run": "deno run -A app.ts",
     "dev": "deno run --watch app.ts",
