@@ -14,7 +14,7 @@ import {
 //////////////////////////////////////////////////////////////
 Deno.test("test @dallmo/array_search", async (t) => {
 
-  const test_array: string[] = ["aa", "abc", "a a", "b b", "123cc", "真係", "真 係 乜","唔係"];
+  const test_array: any[] = ["aa", "abc", "a a", "b b", 123123, "123cc", "真係", "真 係 乜","唔係"];
   
   let search_string: string;
   let search_result: string[];
