@@ -1,9 +1,12 @@
 # @dallmo/array-search
-a simple function to search in array, return an array of strings
+
+## overview
+- a simple function to search in array, return an array of strings ; 
+- published on both [deno land][link-1] and [jsr][link-2] ; 
 
 # usage
 
-## 1. via deno module
+## 1. running on deno, import via deno module
 - [link to deno module][link-1]
 
 
@@ -25,7 +28,7 @@ console.log( search_result );
 deno run test-via-deno-modules.ts
 ```
 
-## 2. via jsr
+## 2. running on deno, import via jsr
 
 - [link to jsr][link-2]
 
