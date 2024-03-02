@@ -1,6 +1,8 @@
 # @dallmo/array-search
 a simple function to search in array, return an array of strings
 
+[link to jsr][link-1]
+
 # usage
 1. in CLI, add the module with :
 ```
@@ -24,3 +26,5 @@ just run
 ```
 deno test
 ```
+
+[link-1]: https://jsr.io/@dallmo/array-search
